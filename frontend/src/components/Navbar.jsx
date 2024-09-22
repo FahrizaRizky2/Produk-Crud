@@ -29,7 +29,7 @@ function Navbar() {
             fontSize={{base: "50", sm: "30"}}
             fontWeight='extrabold'
             >
-                <Link to={"/"} >Fastsain Store </Link>
+                <Link to={"/"} >Your Store </Link>
             </Text>
             <HStack spacing={2} alignItems={"center"}>
                 <Link to={"/create"} > 
